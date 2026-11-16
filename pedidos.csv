@@ -1,0 +1,6 @@
+D001,P01,P02,64,alta,pendiente,,si,60,2028-05-18
+D002,P01,P05,170,media,pendiente,,no,90,2028-03-28
+D003,P02,P04,176,alta,asignado,U01,si,90,2028-10-04
+D004,P03,P06,42,baja,asignado,U02,no,90,2028-11-21
+D005,P01,P07,132,media,entregado,U02,no,120,2028-05-02
+D006,P04,P08,149,baja,entregado,U01,si,120,2028-09-21
