@@ -1,6 +1,0 @@
-D001,P01,P02,64,alta,pendiente,,si,60,
-D002,P01,P05,170,media,pendiente,,no,90,
-D003,P02,P04,176,alta,asignado,U01,si,90,
-D004,P03,P06,42,baja,asignado,U02,no,90,
-D005,P01,P07,132,media,entregado,U02,no,120,
-D006,P04,P08,149,baja,entregado,U01,si,120,
